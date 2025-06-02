@@ -22,7 +22,7 @@ In this project, my colleague and I utilized R and publicly available datasets t
 
 ## Evaluation of the factors affecting residential solar adoption across 10 states in the United States
 # **Skills:** _Python, ArcGIS, Git_
-![EV charger accessibility dashboard](/files/ev_charger_accessibility_dashboard.png)
+![EV charger accessibility dashboard](/files/ev_charger_accessibility_dashboard.PNG)
 In this project, my colleague and I developed a tool that would enable a user to assess the vulnerability of electrical infrastructure to extreme weather events using spatial analysis. Specifically, we sought to enable users to identify generation, transmission and electric vehicle (EV) charging assets that may be affected by extreme weather events such as sea level rise, flooding, or wildfires in the State of California. Additionally, we sought to evaluate how road accessibility to critical infrastructure such as transmission lines and EV charging stations might be impacted by these events leveraging a simplified analysis adapted from the 2022 paper by Jones et. al titled ‘Geospatial Assessment Methodology to Estimate Power Line Restoration Access Vulnerabilities After a Hurricane in Puerto Rico’.
-![Flood vulnerability dashboard](/files/flood_vulnerable_power_plants_dashboard.png)
+![Flood vulnerability dashboard](/files/flood_vulnerable_power_plants_dashboard.PNG)
 
