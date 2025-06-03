@@ -13,12 +13,14 @@ Through this group project, my team and I utilized R and publicly available data
  wind energy generation in the period 2001 - 2021, and its impact on air quality with a focus on the states of Texas, California
  and Iowa in the United States. [See the full report.](/files/env872_project.html)
 
+---
 
 ## Evaluation of the factors affecting residential solar adoption across 10 states in the United States
 # **Skills:** _R, RStudio, Git_
 ![Plot of installations per capita vs electricity price](/files/installationspercapita_vs_electricityprice.png)
 In this project, my colleague and I utilized R and publicly available datasets to explore whether residential solar adoption rates in the United States are higher in states with higher CO2 emissions per capita, average energy prices, and residential electricity demand per capita. [See the full report.](/files/env710_project.html)
 
+---
 
 ## Evaluation of the factors affecting residential solar adoption across 10 states in the United States
 # **Skills:** _Python, ArcGIS, Git_
