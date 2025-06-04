@@ -9,6 +9,11 @@ title: Projects
 ## Evaluation of the factors affecting residential solar adoption across 10 states in the United States
 # **Skills:** _R, RStudio, Git_
 
+<figure>
+  <img src="/files/installationspercapita_vs_electricityprice.png" alt="Plot of installations per capita vs electricity price">
+  <figcaption>Exploratory plot of the relationship between residential installations per capita and average electricity price across 10 states.</figcaption>
+</figure>
+
 In this project, my colleague and I utilized R and publicly available datasets to explore whether residential solar adoption rates in the United States are higher in states with higher CO2 emissions per capita, average energy prices, and residential electricity demand per capita. [See the full report.](/files/env710_project.html)
 
 ---
