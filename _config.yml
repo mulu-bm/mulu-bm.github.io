@@ -54,3 +54,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Adding Google Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-Y5PZT944SP"
+    anonymize_ip: false # default
