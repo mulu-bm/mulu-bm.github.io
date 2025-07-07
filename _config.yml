@@ -54,6 +54,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-# Adding Google Analytics
-google_analytics: G-Y5PZT944SP
