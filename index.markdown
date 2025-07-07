@@ -97,4 +97,13 @@ In this project, my team evaluated the technical and economic feasibility of rep
 
 In this project, I undertook a GIS analysis to evaluate 10 land parcels in western North Carolina as prospective sites for an energy producing wind farm on behalf of a hypothetical developer, the Wind Power Consortium of North Carolina. Through the analysis, I utilized various Geographical Information System tools to determine which parcels comply with all the development requirements and can host a wind farm that can deliver the most power and be built under the specified budget.
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y5PZT944SP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-Y5PZT944SP');
+</script>
+
 
