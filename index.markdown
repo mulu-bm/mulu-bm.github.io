@@ -6,29 +6,16 @@ layout: page
 title: Projects
 ---
 
-## Evaluation of the factors affecting residential solar adoption across 10 states in the United States
-# **Skills:** _R, RStudio, Git_
+## The Market Use Case for Solar + Storage Serving as a Mid-Merit Asset
+# **Skills:** _Python, Energy Modeling, Excel, Statistical Clustering, Financial Modeling_
 
 <figure>
-  <img src="/files/installationspercapita_vs_electricityprice.png" alt="Plot of installations per capita vs electricity price">
-  <figcaption>Exploratory plot of the relationship between residential installations per capita and average electricity price across 10 states.</figcaption>
+  <img src="/files/slowburners_performance.png" alt="Sample Cluster's Annual Performance">
+  <figcaption>Monthly Load Matching Performance of the representative plant selected from the Slow Burners (Cluster 0).</figcaption>
 </figure>
 
-In this project, my colleague and I utilized R and publicly available datasets to explore whether residential solar adoption rates in the United States are higher in states with higher CO2 emissions per capita, average energy prices, and residential electricity demand per capita. [See the full report.](/files/env710_project.html)
-
----
-
-## Exploration of the relationship between solar and wind energy generation and air quality in the United States
-# **Skills:** _R, RStudio, Git_
-
-<figure>
-  <img src="/files/states_gif.gif" alt="Installed solar and wind capacity">
-  <figcaption>Animation highlighting changes in installed solar and wind capacity between 2001 and 2021 in California, Texas and Iowa.</figcaption>
-</figure>
-
-Through this group project, my team and I utilized R and publicly available datasets to explore the evolution of solar and
- wind energy generation in the period 2001 - 2021, and its impact on air quality with a focus on the states of Texas, California
- and Iowa in the United States. [See the full report.](/files/env872_project.html)
+In this project, my team evaluated the technical and economic feasibility of replacing mid-merit natural gas plants with solar-plus-storage in ERCOT for client Fluence Energy, using qualitative research, statistical clustering in Python, and financial modeling in Excel.
+[See project report.](https://dukespace.lib.duke.edu/items/ecc3998c-da7d-4a35-aac3-6ad453884d83)
 
 ---
 
@@ -74,16 +61,29 @@ In this project, I co-developed a least-cost decarbonization strategy to achieve
 
 ---
 
-## The Market Use Case for Solar + Storage Serving as a Mid-Merit Asset
-# **Skills:** _Python, Energy Modeling, Excel, Statistical Clustering, Financial Modeling_
+## An exploration of the relationship between solar and wind energy generation and air quality in the United States
+# **Skills:** _R, RStudio, Git_
 
 <figure>
-  <img src="/files/slowburners_performance.png" alt="Sample Cluster's Annual Performance">
-  <figcaption>Monthly Load Matching Performance of the representative plant selected from the Slow Burners (Cluster 0).</figcaption>
+  <img src="/files/states_gif.gif" alt="Installed solar and wind capacity">
+  <figcaption>Animation highlighting changes in installed solar and wind capacity between 2001 and 2021 in California, Texas and Iowa.</figcaption>
 </figure>
 
-In this project, my team evaluated the technical and economic feasibility of replacing mid-merit natural gas plants with solar-plus-storage in ERCOT for client Fluence Energy, using qualitative research, statistical clustering in Python, and financial modeling in Excel.
-[See project report.](https://dukespace.lib.duke.edu/items/ecc3998c-da7d-4a35-aac3-6ad453884d83)
+Through this group project, my team and I utilized R and publicly available datasets to explore the evolution of solar and
+ wind energy generation in the period 2001 - 2021, and its impact on air quality with a focus on the states of Texas, California
+ and Iowa in the United States. [See the full report.](/files/env872_project.html)
+
+---
+
+## An exploration of the factors affecting residential solar adoption across 10 states in the United States
+# **Skills:** _R, RStudio, Git_
+
+<figure>
+  <img src="/files/installationspercapita_vs_electricityprice.png" alt="Plot of installations per capita vs electricity price">
+  <figcaption>Exploratory plot of the relationship between residential installations per capita and average electricity price across 10 states.</figcaption>
+</figure>
+
+In this project, my colleague and I utilized R and publicly available datasets to explore whether residential solar adoption rates in the United States are higher in states with higher CO2 emissions per capita, average energy prices, and residential electricity demand per capita. [See the full report.](/files/env710_project.html)
 
 ---
 
